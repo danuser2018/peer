@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.5</version>
+		<version>2.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
@@ -13,7 +13,7 @@
 	<artifactId>node</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PeerNode</name>
-	<description>Demo por a peer 2 peer system</description>
+	<description>Demo for a peer 2 peer system</description>
 
 	<properties>
 		<java.version>11</java.version>
